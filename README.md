@@ -14,8 +14,8 @@ A Python 3 port of suds available through pypi at https://pypi.python.org/pypi/s
 ### Admin Service
 <ul>
 <li>GetAuthorizationList</li>
-<li><a href="AdminService-RequestAccess">RequestAccess</a></li>
-<li><a href="AdminService-Ping">Ping</a></li>
+<li><a href="AdminService-RequestAccess.md">RequestAccess</a></li>
+<li><a href="AdminService-Ping.md">Ping</a></li>
 </ul>
 
 ### Cart Service
