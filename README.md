@@ -11,7 +11,7 @@ A Python 3 port of suds available through pypi at https://pypi.python.org/pypi/s
 
 ## Examples
 
-Admin Service
+### Admin Service
 <ul>
 <li>GetAuthorizationList</li>
 <li><a href="AdminService-RequestAccess">RequestAccess</a></li>
