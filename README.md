@@ -5,9 +5,9 @@ Examples interfacing with ChannelAdvisor API Services in Python 3
 
 Python 3: https://www.python.org/downloads/
 
-A Python 3 port of suds available through pypi at https://pypi.python.org/pypi/suds-py3 or by running the following command in your terminal:
+A Python 3 port of suds available through pypi at https://pypi.python.org/pypi/suds-jurko or by running the following command in your terminal:
 
-	$ sudo pip3 install suds-py3
+	$ sudo pip3 install suds-jurko
 
 ## Examples
 
