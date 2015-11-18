@@ -28,7 +28,7 @@
 	client.set_options(soapheaders=login)
 
 	# Perform the request
-	response = client.service.RequestAccess(profile_id)
+	response = client.service.Ping()
 
 	# Print response
 	print(response)
