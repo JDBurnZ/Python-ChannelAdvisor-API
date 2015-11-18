@@ -81,7 +81,7 @@ A Python 3 port of suds available through pypi at https://pypi.python.org/pypi/s
 <ul>
 <li>GetOrderList</li>
 <li>GetOrderRefundHistory</li>
-<li>Ping</li>
+<li><a href="OrderService-Ping.md">Ping</a></li>
 <li>OrderMerge</li>
 <li>OrderSplit</li>
 <li>SubmitOrder</li>
